@@ -11,7 +11,7 @@ var rebootUrl = "http://192.168.0.254/uir/rebo.htm";
 var localPingUrl = "http://192.168.0.254";
 var remotePingUrl = "https://www.google.com";
 
-var PING_INTERVAL = 10000; 
+var PING_INTERVAL = 60000; 
 var PING_FAIL_TRESHOLD = 10;
 
 var pingFailCount = 0;
