@@ -1,0 +1,19 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		},
+		{
+			"path": "../raspicam-isight-simulator",
+			"folder_exclude_patterns": ["node_modules"]
+		},
+		{
+			"path": "../node-raspi-security-app"//,
+			//"folder_exclude_patterns": ["node_modules"]
+		},
+		{
+			"path": "../RasPiMotionDetect"
+		}
+	]
+}
